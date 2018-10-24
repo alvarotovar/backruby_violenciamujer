@@ -1,7 +1,0 @@
-{
-  "name": "vcmb",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "ionic-angular"
-}
